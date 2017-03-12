@@ -1,0 +1,794 @@
+{
+  "url": "http: //api.lolbox.duowan.com/api/v3/player/dx1/4001183243/?callback=jQuery111101163928349854364_1489317803513&_=1489317803514",
+  "_cache_hit": true,
+  "followed": false,
+  "player_list": [
+    {
+      "total_lose_normal": 911,
+      "last_modified_ranked": "2017-03-12T05:55:50",
+      "win_rate": 46.7,
+      "rank": 3,
+      "stat_perf": {
+        "position": {
+          "adc": 1,
+          "support": 16,
+          "jungler": 0,
+          "top": 4,
+          "mid": 2
+        },
+        "position_champ": {
+          "support": {
+            "12": {
+              "win_rate": 0,
+              "t": 4,
+              "w": 0,
+              "champion": {
+                "display_name": "牛头酋长",
+                "roles": [
+                  "Tank",
+                  "Support"
+                ],
+                "gold": 1350,
+                "title": "阿利斯塔",
+                "coupon": 2000,
+                "img_40x40": "http://static.lolbox.duowan.com/images/champions/Alistar_40x40.jpg",
+                "url_img": {
+                  "28x28": "http://static.lolbox.duowan.com/images/champions/Alistar_28x28.jpg",
+                  "120x120": "http://static.lolbox.duowan.com/images/champions/Alistar_120x120.jpg",
+                  "40x40": "http://static.lolbox.duowan.com/images/champions/Alistar_40x40.jpg"
+                },
+                "id": 12,
+                "name": "Alistar"
+              }
+            },
+            "25": {
+              "win_rate": 50,
+              "t": 2,
+              "w": 1,
+              "champion": {
+                "display_name": "堕落天使",
+                "roles": [
+                  "Mage",
+                  "Support"
+                ],
+                "gold": 1350,
+                "title": "莫甘娜",
+                "coupon": 2000,
+                "img_40x40": "http://static.lolbox.duowan.com/images/champions/Morgana_40x40.jpg",
+                "url_img": {
+                  "28x28": "http://static.lolbox.duowan.com/images/champions/Morgana_28x28.jpg",
+                  "120x120": "http://static.lolbox.duowan.com/images/champions/Morgana_120x120.jpg",
+                  "40x40": "http://static.lolbox.duowan.com/images/champions/Morgana_40x40.jpg"
+                },
+                "id": 25,
+                "name": "Morgana"
+              }
+            },
+            "37": {
+              "win_rate": 50,
+              "t": 4,
+              "w": 2,
+              "champion": {
+                "display_name": "琴瑟仙女",
+                "roles": [
+                  "Support",
+                  "Mage"
+                ],
+                "gold": 3150,
+                "title": "娑娜",
+                "coupon": 2500,
+                "img_40x40": "http://static.lolbox.duowan.com/images/champions/Sona_40x40.jpg",
+                "url_img": {
+                  "28x28": "http://static.lolbox.duowan.com/images/champions/Sona_28x28.jpg",
+                  "120x120": "http://static.lolbox.duowan.com/images/champions/Sona_120x120.jpg",
+                  "40x40": "http://static.lolbox.duowan.com/images/champions/Sona_40x40.jpg"
+                },
+                "id": 37,
+                "name": "Sona"
+              }
+            },
+            "143": {
+              "win_rate": 100,
+              "t": 1,
+              "w": 1,
+              "champion": {
+                "display_name": "荆棘之兴",
+                "roles": [
+                  "Mage",
+                  "Support"
+                ],
+                "gold": 4800,
+                "title": "婕拉",
+                "coupon": 3500,
+                "img_40x40": "http://static.lolbox.duowan.com/images/champions/Zyra_40x40.jpg",
+                "url_img": {
+                  "28x28": "http://static.lolbox.duowan.com/images/champions/Zyra_28x28.jpg",
+                  "120x120": "http://static.lolbox.duowan.com/images/champions/Zyra_120x120.jpg",
+                  "40x40": "http://static.lolbox.duowan.com/images/champions/Zyra_40x40.jpg"
+                },
+                "id": 143,
+                "name": "Zyra"
+              }
+            },
+            "267": {
+              "win_rate": 33,
+              "t": 3,
+              "w": 1,
+              "champion": {
+                "display_name": "唤潮鲛姬",
+                "roles": [
+                  "Support",
+                  "Mage"
+                ],
+                "gold": 6300,
+                "title": "娜美",
+                "coupon": 4500,
+                "img_40x40": "http://static.lolbox.duowan.com/images/champions/Nami_40x40.jpg",
+                "url_img": {
+                  "28x28": "http://static.lolbox.duowan.com/images/champions/Nami_28x28.jpg",
+                  "120x120": "http://static.lolbox.duowan.com/images/champions/Nami_120x120.jpg",
+                  "40x40": "http://static.lolbox.duowan.com/images/champions/Nami_40x40.jpg"
+                },
+                "id": 267,
+                "name": "Nami"
+              }
+            }
+          },
+          "jungler": {
+            "104": {
+              "win_rate": 0,
+              "t": 1,
+              "w": 0,
+              "champion": {
+                "display_name": "法外狂徒",
+                "roles": [
+                  "Marksman"
+                ],
+                "gold": 6300,
+                "title": "格雷福斯",
+                "coupon": 4500,
+                "img_40x40": "http://static.lolbox.duowan.com/images/champions/Graves_40x40.jpg",
+                "url_img": {
+                  "28x28": "http://static.lolbox.duowan.com/images/champions/Graves_28x28.jpg",
+                  "120x120": "http://static.lolbox.duowan.com/images/champions/Graves_120x120.jpg",
+                  "40x40": "http://static.lolbox.duowan.com/images/champions/Graves_40x40.jpg"
+                },
+                "id": 104,
+                "name": "Graves"
+              }
+            }
+          },
+          "adc": {
+            "17": {
+              "win_rate": 50,
+              "t": 2,
+              "w": 1,
+              "champion": {
+                "display_name": "迅捷斥候",
+                "roles": [
+                  "Marksman",
+                  "Assassin"
+                ],
+                "gold": 6300,
+                "title": "提莫",
+                "coupon": 3500,
+                "img_40x40": "http://static.lolbox.duowan.com/images/champions/Teemo_40x40.jpg",
+                "url_img": {
+                  "28x28": "http://static.lolbox.duowan.com/images/champions/Teemo_28x28.jpg",
+                  "120x120": "http://static.lolbox.duowan.com/images/champions/Teemo_120x120.jpg",
+                  "40x40": "http://static.lolbox.duowan.com/images/champions/Teemo_40x40.jpg"
+                },
+                "id": 17,
+                "name": "Teemo"
+              }
+            },
+            "25": {
+              "t": 1,
+              "w": 0
+            },
+            "54": {
+              "win_rate": 0,
+              "t": 1,
+              "w": 0,
+              "champion": {
+                "display_name": "熔岩巨兽",
+                "roles": [
+                  "Tank",
+                  "Fighter"
+                ],
+                "gold": 1350,
+                "title": "墨菲特",
+                "coupon": 1000,
+                "img_40x40": "http://static.lolbox.duowan.com/images/champions/Malphite_40x40.jpg",
+                "url_img": {
+                  "28x28": "http://static.lolbox.duowan.com/images/champions/Malphite_28x28.jpg",
+                  "120x120": "http://static.lolbox.duowan.com/images/champions/Malphite_120x120.jpg",
+                  "40x40": "http://static.lolbox.duowan.com/images/champions/Malphite_40x40.jpg"
+                },
+                "id": 54,
+                "name": "Malphite"
+              }
+            },
+            "78": {
+              "win_rate": 67,
+              "t": 3,
+              "w": 2,
+              "champion": {
+                "display_name": "圣锤之毅",
+                "roles": [
+                  "Tank",
+                  "Fighter"
+                ],
+                "gold": 450,
+                "title": "波比",
+                "coupon": 1000,
+                "img_40x40": "http://static.lolbox.duowan.com/images/champions/Poppy_40x40.jpg",
+                "url_img": {
+                  "28x28": "http://static.lolbox.duowan.com/images/champions/Poppy_28x28.jpg",
+                  "120x120": "http://static.lolbox.duowan.com/images/champions/Poppy_120x120.jpg",
+                  "40x40": "http://static.lolbox.duowan.com/images/champions/Poppy_40x40.jpg"
+                },
+                "id": 78,
+                "name": "Poppy"
+              }
+            },
+            "111": {
+              "win_rate": 0,
+              "t": 1,
+              "w": 0,
+              "champion": {
+                "display_name": "深海泰坦",
+                "roles": [
+                  "Tank",
+                  "Fighter"
+                ],
+                "gold": 4800,
+                "title": "诺提勒斯",
+                "coupon": 3500,
+                "img_40x40": "http://static.lolbox.duowan.com/images/champions/Nautilus_40x40.jpg",
+                "url_img": {
+                  "28x28": "http://static.lolbox.duowan.com/images/champions/Nautilus_28x28.jpg",
+                  "120x120": "http://static.lolbox.duowan.com/images/champions/Nautilus_120x120.jpg",
+                  "40x40": "http://static.lolbox.duowan.com/images/champions/Nautilus_40x40.jpg"
+                },
+                "id": 111,
+                "name": "Nautilus"
+              }
+            }
+          }
+        },
+        "kda": {
+          "quadra_kills": 0,
+          "average_a": 11.4,
+          "total_k": 80,
+          "total_win": 8,
+          "average_d": 7.2,
+          "best_kill": null,
+          "total_d": 165,
+          "average_k": 3.5,
+          "total_lose": 15,
+          "average_kda": 6.2,
+          "triple_kills": 0,
+          "penta_kills": 0,
+          "total_a": 263,
+          "average_win_rate": 34,
+          "best_kill_in_cn": null,
+          "god_like_num": 0
+        },
+        "total_game": 23
+      },
+      "total_lose_bot": 4,
+      "win_ratio_score": 863,
+      "user_id": 4001183243,
+      "game_zone": {
+        "pinyin": "dx1",
+        "area_id": 1,
+        "server_name": "电信一",
+        "alias": "艾欧尼亚"
+      },
+      "total_game": 1708,
+      "win_battle_score": 2069,
+      "last_modified": "2017-03-08T13:27:01",
+      "formatted_ranked_history": {
+        "s3": {
+          "le": 0,
+          "lo": 0,
+          "r_zh": "-",
+          "p": 0,
+          "r": 0,
+          "t": 0,
+          "w": 0,
+          "t_zh": "无段位"
+        },
+        "last_season_name": "flex_sr",
+        "s7": {
+          "le": 0,
+          "lo": 2,
+          "r_zh": "-",
+          "p": 0,
+          "r": 0,
+          "t": 0,
+          "w": 0,
+          "t_zh": "无段位"
+        },
+        "s6": {
+          "le": 0,
+          "lo": 87,
+          "r_zh": "IV",
+          "p": 83,
+          "r": 4,
+          "t": 2,
+          "w": 78,
+          "t_zh": "白银"
+        },
+        "s5": {
+          "le": 0,
+          "lo": 184,
+          "r_zh": "IV",
+          "p": 0,
+          "r": 4,
+          "t": 3,
+          "w": 194,
+          "t_zh": "黄金"
+        },
+        "s4": {
+          "le": 0,
+          "lo": 0,
+          "r_zh": "-",
+          "p": 0,
+          "r": 0,
+          "t": 0,
+          "w": 0,
+          "t_zh": "无段位"
+        },
+        "flex_sr": {
+          "le": 0,
+          "lo": 32,
+          "r_zh": "III",
+          "p": 54,
+          "r": 3,
+          "t": 2,
+          "w": 34,
+          "t_zh": "白银"
+        }
+      },
+      "last_modified_normal": "2017-03-06T11:02:29",
+      "box_score": 5574,
+      "total_win_normal": 797,
+      "total_win_bot": 293,
+      "total_win_aram": 27,
+      "game_recent_list": [
+        {
+          "user_id": 4001183243,
+          "champion": {
+            "display_name": "复仇焰魂",
+            "name": "Brand",
+            "title": "布兰德",
+            "id": 63
+          },
+          "created": "2017-03-11T08:27:20",
+          "game_type": {
+            "const": 3,
+            "name_cn": "匹配赛"
+          },
+          "champion_id": 63,
+          "flag_mvp_carry": 0,
+          "collect": false,
+          "game_zone": {
+            "pinyin": "dx1",
+            "area_id": 1,
+            "server_name": "电信一",
+            "alias": "艾欧尼亚"
+          },
+          "collected": false,
+          "game_id": 2653963448,
+          "spells_in_s": "",
+          "game_type_const": 3,
+          "battle_result": true
+        },
+        {
+          "user_id": 4001183243,
+          "champion": {
+            "display_name": "曙光女神",
+            "name": "Leona",
+            "title": "蕾欧娜",
+            "id": 89
+          },
+          "created": "2017-03-11T08:02:57",
+          "game_type": {
+            "const": 5,
+            "name_cn": "灵活组排"
+          },
+          "champion_id": 89,
+          "flag_mvp_carry": 0,
+          "collect": false,
+          "game_zone": {
+            "pinyin": "dx1",
+            "area_id": 1,
+            "server_name": "电信一",
+            "alias": "艾欧尼亚"
+          },
+          "collected": false,
+          "game_id": 2653723835,
+          "spells_in_s": "",
+          "game_type_const": 5,
+          "battle_result": true
+        },
+        {
+          "user_id": 4001183243,
+          "champion": {
+            "display_name": "虚空恐惧",
+            "name": "Chogath",
+            "title": "科加斯",
+            "id": 31
+          },
+          "created": "2017-03-10T12:41:42",
+          "game_type": {
+            "const": 3,
+            "name_cn": "匹配赛"
+          },
+          "champion_id": 31,
+          "flag_mvp_carry": 0,
+          "collect": false,
+          "game_zone": {
+            "pinyin": "dx1",
+            "area_id": 1,
+            "server_name": "电信一",
+            "alias": "艾欧尼亚"
+          },
+          "collected": false,
+          "game_id": 2651750355,
+          "spells_in_s": "",
+          "game_type_const": 3,
+          "battle_result": false
+        },
+        {
+          "user_id": 4001183243,
+          "champion": {
+            "display_name": "天启者",
+            "name": "Karma",
+            "title": "卡尔玛",
+            "id": 43
+          },
+          "created": "2017-03-10T11:58:47",
+          "game_type": {
+            "const": 5,
+            "name_cn": "灵活组排"
+          },
+          "champion_id": 43,
+          "flag_mvp_carry": 0,
+          "collect": false,
+          "game_zone": {
+            "pinyin": "dx1",
+            "area_id": 1,
+            "server_name": "电信一",
+            "alias": "艾欧尼亚"
+          },
+          "collected": false,
+          "game_id": 2651483649,
+          "spells_in_s": "",
+          "game_type_const": 5,
+          "battle_result": true
+        },
+        {
+          "user_id": 4001183243,
+          "champion": {
+            "display_name": "琴瑟仙女",
+            "name": "Sona",
+            "title": "娑娜",
+            "id": 37
+          },
+          "created": "2017-03-08T14:04:48",
+          "game_type": {
+            "const": 5,
+            "name_cn": "灵活组排"
+          },
+          "champion_id": 37,
+          "flag_mvp_carry": 0,
+          "collect": false,
+          "game_zone": {
+            "pinyin": "dx1",
+            "area_id": 1,
+            "server_name": "电信一",
+            "alias": "艾欧尼亚"
+          },
+          "collected": false,
+          "game_id": 2648634067,
+          "spells_in_s": "",
+          "game_type_const": 5,
+          "battle_result": true
+        },
+        {
+          "user_id": 4001183243,
+          "champion": {
+            "display_name": "黑暗之女",
+            "name": "Annie",
+            "title": "安妮",
+            "id": 1
+          },
+          "created": "2017-03-08T13:27:01",
+          "game_type": {
+            "const": 5,
+            "name_cn": "灵活组排"
+          },
+          "champion_id": 1,
+          "flag_mvp_carry": 0,
+          "collect": false,
+          "game_zone": {
+            "pinyin": "dx1",
+            "area_id": 1,
+            "server_name": "电信一",
+            "alias": "艾欧尼亚"
+          },
+          "collected": false,
+          "game_id": 2648587955,
+          "spells_in_s": "",
+          "game_type_const": 5,
+          "battle_result": false
+        },
+        {
+          "user_id": 4001183243,
+          "champion": {
+            "display_name": "唤潮鲛姬",
+            "name": "Nami",
+            "title": "娜美",
+            "id": 267
+          },
+          "created": "2017-03-08T12:40:09",
+          "game_type": {
+            "const": 5,
+            "name_cn": "灵活组排"
+          },
+          "champion_id": 267,
+          "flag_mvp_carry": 0,
+          "collect": false,
+          "game_zone": {
+            "pinyin": "dx1",
+            "area_id": 1,
+            "server_name": "电信一",
+            "alias": "艾欧尼亚"
+          },
+          "collected": false,
+          "game_id": 2648498529,
+          "spells_in_s": "",
+          "game_type_const": 5,
+          "battle_result": false
+        }
+      ],
+      "tier_rank": {
+        "tier": {
+          "name_cn": "白银",
+          "const": 2,
+          "name": "silver",
+          "full_name_cn": "不屈白银"
+        },
+        "url_img": "http://static.lolbox.duowan.com/images/rank/2_50x50.png",
+        "rank": {
+          "const": 3,
+          "name_cn": null,
+          "name": "III"
+        },
+        "league_points": 54
+      },
+      "timestamp_until_next_first_win_bonus": null,
+      "total_leave_aram": 0,
+      "tier": 2,
+      "last_modified_bot": "2017-01-23T13:04:27",
+      "league_points": 54,
+      "icon": 1114,
+      "elo_score": 2642,
+      "total_lose_aram": 27,
+      "last_modified_aram": "2016-12-29T11:30:28",
+      "like": 26,
+      "unlike": 12,
+      "level": 30,
+      "pn": "14行诗",
+      "total_leave_normal": 5,
+      "champion_performance_list": [
+        {
+          "mvp": 0,
+          "gpm": 404,
+          "mk10m": 6,
+          "champion": {
+            "display_name": "黑暗之女",
+            "name": "Annie",
+            "title": "安妮",
+            "id": 1
+          },
+          "d": 13.9,
+          "win": 12,
+          "k": 14.7,
+          "win_rate": 31,
+          "l": 0,
+          "times": 38,
+          "ddpm": 991,
+          "a": 22.5,
+          "kda_score": 2.5,
+          "carry": 0,
+          "id": 1,
+          "t": 1488979621
+        },
+        {
+          "mvp": 0,
+          "gpm": 335,
+          "mk10m": 5,
+          "champion": {
+            "display_name": "赏金猎人",
+            "name": "MissFortune",
+            "title": "厄运小姐",
+            "id": 21
+          },
+          "win": 21,
+          "k": 2,
+          "win_rate": 53,
+          "l": 0,
+          "times": 39,
+          "ddpm": 514,
+          "a": 9.7,
+          "kda_score": 1.2,
+          "t": 1488798149,
+          "carry": 0,
+          "id": 21,
+          "d": 8.7
+        },
+        {
+          "mvp": 0,
+          "gpm": 429,
+          "mk10m": 7,
+          "champion": {
+            "display_name": "战争之影",
+            "name": "Hecarim",
+            "title": "赫卡里姆",
+            "id": 120
+          },
+          "win": 22,
+          "k": 17.6,
+          "win_rate": 41,
+          "l": 0,
+          "times": 53,
+          "ddpm": 935,
+          "a": 22.8,
+          "kda_score": 2.4,
+          "t": 1488559039,
+          "carry": 0,
+          "id": 120,
+          "d": 15.8
+        },
+        {
+          "a": 10.1,
+          "gpm": 274,
+          "mk10m": 12,
+          "champion": {
+            "display_name": "曙光女神",
+            "name": "Leona",
+            "title": "蕾欧娜",
+            "id": 89
+          },
+          "win": 32,
+          "k": 3,
+          "win_rate": 43,
+          "l": null,
+          "times": 74,
+          "ddpm": 259,
+          "id": 89,
+          "t": 1486886108,
+          "kda_score": 1.5,
+          "carry": 0,
+          "mvp": 0,
+          "d": 8
+        },
+        {
+          "mvp": 0,
+          "gpm": 376,
+          "mk10m": 9,
+          "champion": {
+            "display_name": "虚空先知",
+            "name": "Malzahar",
+            "title": "玛尔扎哈",
+            "id": 90
+          },
+          "win": 1,
+          "k": 5,
+          "win_rate": 100,
+          "times": 1,
+          "ddpm": 539,
+          "t": 1485320062,
+          "a": 19,
+          "kda_score": 3,
+          "carry": 0,
+          "id": 90,
+          "d": 7
+        },
+        {
+          "mvp": 0,
+          "gpm": 369,
+          "mk10m": 16,
+          "champion": {
+            "display_name": "法外狂徒",
+            "name": "Graves",
+            "title": "格雷福斯",
+            "id": 104
+          },
+          "win": 1,
+          "k": 9,
+          "win_rate": 25,
+          "l": 0,
+          "times": 4,
+          "ddpm": 736,
+          "a": 8.7,
+          "kda_score": 1.6,
+          "t": 1485306587,
+          "carry": 0,
+          "id": 104,
+          "d": 10
+        },
+        {
+          "mvp": 2,
+          "gpm": 446,
+          "mk10m": 54,
+          "champion": {
+            "display_name": "光辉女郎",
+            "name": "Lux",
+            "title": "拉克丝",
+            "id": 99
+          },
+          "d": 8.8,
+          "win": 10,
+          "k": 16.3,
+          "win_rate": 55,
+          "l": 0,
+          "times": 18,
+          "ddpm": 1067,
+          "a": 6.7,
+          "kda_score": 2.3,
+          "carry": 0,
+          "id": 99,
+          "t": 1484468839
+        },
+        {
+          "mvp": 1,
+          "gpm": 43,
+          "mk10m": 4,
+          "champion": {
+            "display_name": "风暴之怒",
+            "name": "Janna",
+            "title": "迦娜",
+            "id": 40
+          },
+          "d": 1.9,
+          "win": 7,
+          "k": 2,
+          "win_rate": 35,
+          "l": 0,
+          "times": 20,
+          "ddpm": 22,
+          "a": 2.1,
+          "kda_score": 1.4,
+          "carry": 0,
+          "id": 40,
+          "t": 1483779783
+        }
+      ],
+      "total_leave_bot": 6
+    }
+  ],
+  "is_myself": false,
+  "game_type_list": [
+    {
+      "const": 3,
+      "name_cn": "匹配赛"
+    },
+    {
+      "const": 4,
+      "name_cn": "单双排"
+    },
+    {
+      "const": 5,
+      "name_cn": "灵活组排"
+    },
+    {
+      "const": 6,
+      "name_cn": "大乱斗"
+    }
+  ]
+}

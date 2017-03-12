@@ -1,0 +1,38 @@
+{
+  "player_list": [
+    {
+      "box_score": 6676,
+      "user_id": 4001183243,
+      "level": 30,
+      "url_img": "http://static.lolbox.duowan.com/images/profile_icons/1114.jpg",
+      "champion_performance_list": null,
+      "game_zone": {
+        "pinyin": "dx1",
+        "area_id": 1,
+        "server_name": "电信一",
+        "alias": "艾欧尼亚"
+      },
+      "tier_rank": {
+        "tier": {
+          "name_cn": "白银",
+          "const": 2,
+          "name": "silver",
+          "full_name_cn": "不屈白银"
+        },
+        "url_img": "http://static.lolbox.duowan.com/images/rank/2_50x50.png",
+        "rank": {
+          "const": 3,
+          "name_cn": null,
+          "name": "III"
+        },
+        "league_points": 47
+      },
+      "rank": 3,
+      "tier": 2,
+      "pn": "14行诗",
+      "league_points": 47,
+      "icon": 1114
+    }
+  ],
+  "_cache_hit": true
+}
