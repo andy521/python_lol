@@ -1,7 +1,7 @@
 #!/usr/bin/python
 # -*- coding=utf-8 -*-
 from functools import wraps
-from flask import Flask, jsonify
+from flask import Flask, jsonify , make_response
 import urllib2
 import json
 # 解决unicode错误
@@ -56,6 +56,9 @@ def search(summoner):
 @application.route("/user/detail/<id>")
 @allow_cross_domain
 def userDetail(id):
+    print "-------------------------------"
+    print id
+    print "-------------------------------"
     return get_detail_by_user_id(id)
 
 
