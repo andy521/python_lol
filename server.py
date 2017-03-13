@@ -1,16 +1,6 @@
 #!/usr/bin/python
 # -*- coding=utf-8 -*-
-
-
-# def app(environ, start_response):
-#         data = b"Hello, World!\n"
-#         start_response("200 OK", [
-#             ("Content-Type", "text/plain"),
-#             ("Content-Length", str(len(data)))
-#         ])
-#         return iter([data])
-
-
+from functools import wraps
 from flask import Flask, jsonify
 import urllib2
 import json
@@ -18,6 +8,17 @@ import json
 import sys
 reload(sys)
 sys.setdefaultencoding('utf-8')
+# ------- cors --------
+def allow_cross_domain(fun):
+    @wraps(fun)
+    def wrapper_fun(*args, **kwargs):
+        rst = make_response(fun(*args, **kwargs))
+        rst.headers['Access-Control-Allow-Origin'] = '*'
+        rst.headers['Access-Control-Allow-Methods'] = 'PUT,GET,POST,DELETE'
+        allow_headers = "Referer,Accept,Origin,User-Agent"
+        rst.headers['Access-Control-Allow-Headers'] = allow_headers
+        return rst
+    return wrapper_fun
 
 
 # ------- methods -------
@@ -43,14 +44,17 @@ def res_handler(res):
 # ------- server -------
 application = Flask(__name__)
 @application.route("/")
+@allow_cross_domain
 def hello():
     return "<h1 style='color:blue'>Hello Summoner!</h1>"
 
 @application.route("/search/<summoner>")
+@allow_cross_domain
 def search(summoner):
     return get_user_list_by_summoner_name(summoner)
 
 @application.route("/user/detail/<id>")
+@allow_cross_domain
 def userDetail(id):
     return get_detail_by_user_id(id)
 
