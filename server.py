@@ -29,9 +29,10 @@ def get_user_list_by_summoner_name(summoner):
     return res_handler(res);
 
 
-def get_detail_by_user_id(id):
-    request_url = "http://api.lolbox.duowan.com/api/v3/player/dx1/%s/?callback=jQuery111101163928349854364_1489317803513&_=1489317803514" \
-    % id
+def get_detail_by_user_id(area,id):
+    path = area + "/" + id
+    request_url = "http://api.lolbox.duowan.com/api/v3/player/%s/?callback=jQuery111101163928349854364_1489317803513&_=1489317803514" \
+    % path
     res = urllib2.urlopen(request_url)
     return res_handler(res);
 
@@ -53,13 +54,10 @@ def hello():
 def search(summoner):
     return get_user_list_by_summoner_name(summoner)
 
-@application.route("/user/detail/<id>")
+@application.route("/user/detail/<area>/<id>")
 @allow_cross_domain
-def userDetail(id):
-    print "-------------------------------"
-    print id
-    print "-------------------------------"
-    return get_detail_by_user_id(id)
+def userDetail(area,id):
+    return get_detail_by_user_id(area,id)
 
 
 if __name__ == "__main__":
