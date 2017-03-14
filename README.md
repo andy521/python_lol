@@ -3,7 +3,7 @@
 ## 简介
 ### 项目原地址([https://github.com/CurtisCBS/learn-react](https://github.com/CurtisCBS/learn-react))欢迎star
 
-### [查看效果(demo)](sucks.life)
+### [查看效果(demo)](http://sucks.life)
 
 react和python的学习项目,使用react和python实现国服lol战绩查询
 
